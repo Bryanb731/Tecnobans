@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url("/img/slider-mision-y-vision.jpg");
+    background: url("../img/slider-mision-y-vision.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
