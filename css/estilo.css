@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url(/img/Estrategia\ en\ una\ empresa.jpg);
+    background: url("/img/Estrategia\ en\ una\ empresa.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
